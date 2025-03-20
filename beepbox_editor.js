@@ -23450,7 +23450,7 @@ content: "";
 	position: absolute;
 	left: 0;
 	top: 50%;
-	transform: translateY(-50%);
+	transform: translateY(50%);
 	pointer-events: none;
 	width: var(--button-size);
 	height: var(--button-size);
